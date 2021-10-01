@@ -1,3 +1,25 @@
 html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.header--heading {
+    color: crimson;
+    font-size: 30px;
+}
+.main--headings {
+    font-size: 22px;
+}
+.div--headings h3 {
+    font-size: 20px;
+}
+.div--headings h4 {
+    font-size: 18px;
+    color: lightcoral;
+}
+.div--headings h5 {
+    font-size: 16px;
+}
+.div--headings h6 {
+    font-size: 12px;
+    font-style: italic;
+    color: lightsalmon;
+}
