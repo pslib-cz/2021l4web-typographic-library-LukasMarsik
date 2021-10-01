@@ -5,21 +5,42 @@ html {
     color: crimson;
     font-size: 30px;
 }
-.main--headings {
-    font-size: 22px;
+.main--typography h2 {
+    font-size: 25px;
 }
-.div--headings h3 {
+.main--typography h3 {
     font-size: 20px;
 }
-.div--headings h4 {
+.main--typography h4 {
     font-size: 18px;
     color: lightcoral;
 }
-.div--headings h5 {
+.main--typography h5 {
     font-size: 16px;
 }
-.div--headings h6 {
+.main--typography h6 {
     font-size: 12px;
     font-style: italic;
     color: lightsalmon;
+}
+.section--paragraph {
+    padding-left: 5em;
+    padding-right: 5em;
+}
+.section--list {
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.ol--visual {
+    font-size: 15px;
+    color: lightskyblue;
+}
+ul {
+    color: black;
+}
+.blockquote--quote {
+    padding: 2em;
+    font-style: italic;
 }
