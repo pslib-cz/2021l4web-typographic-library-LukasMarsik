@@ -61,12 +61,45 @@ figcaption {
 .button--version1 {
     font-size: 20px;
     margin-right: 1em;
+    background-color: #115373;
+    color: #ffff;
+    border-radius: 7%;
+    border-style: none;
 }
+.button--version1:hover {
+    background-color: #ffff;
+    color: #115373;
+    border-style: solid;
+    border-color: #115373;
+
+} 
 .button--version2 {
     font-size: 20px;
     margin-right: 1em;
+    background-color: #000;
+    color: #ffff;
+    border-radius: 0%;
+    border-style: none;
 }
+.button--version2:hover {
+    background-color: #ffff;
+    color: #000;
+    border-style: solid;
+    border-color: #000;
+
+} 
 .button--version3 {
     font-size: 20px;
     margin-right: 1em;
+    background-color: #921637;
+    color: #ffff;
+    border-radius: 0%;
+    border-style: dashed;
+    border-color: #000;
 }
+.button--version3:hover {
+    background-color: #ffff;
+    color: #921637;
+    border-style: dashed;
+    border-color: #921637;
+} 
