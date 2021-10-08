@@ -1,5 +1,6 @@
 html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
 }
 .header--heading {
     color: crimson;
@@ -40,6 +41,12 @@ html {
 }
 ul {
     color: black;
+}
+.section--images {
+    padding-left: 1.5em;
+}
+figcaption {
+    margin-left: 4em;
 }
 .blockquote--quote {
     padding: 2em;
