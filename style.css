@@ -4,7 +4,7 @@ html {
 .header--heading {
     color: crimson;
     font-size: 30px;
-    padding-left: 2em;
+    padding-left: 1.5em;
 }
 .main--typography h2 {
     font-size: 25px;
@@ -12,20 +12,20 @@ html {
 }
 .main--typography h3 {
     font-size: 20px;
-    padding-left: 2em;
+    padding-left: 2.5em;
 }
 .main--typography h4 {
     font-size: 18px;
-    padding-left: 2em;
+    padding-left: 3em;
 }
 .main--typography h5 {
     font-size: 16px;
-    padding-left: 2em;
+    padding-left: 3.5em;
 }
 .main--typography h6 {
     font-size: 12px;
     font-style: italic;
-    padding-left: 2em;
+    padding-left: 4em;
 }
 .section--paragraph {
     padding-left: 5em;
