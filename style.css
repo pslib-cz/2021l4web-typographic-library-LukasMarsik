@@ -12,8 +12,7 @@ html {
     font-size: 20px;
 }
 .main--typography h4 {
-    font-size: 18px;
-    color: lightcoral;
+    font-size: 18px;;
 }
 .main--typography h5 {
     font-size: 16px;
@@ -21,17 +20,13 @@ html {
 .main--typography h6 {
     font-size: 12px;
     font-style: italic;
-    color: lightsalmon;
 }
 .section--paragraph {
     padding-left: 5em;
     padding-right: 5em;
 }
 .section--list {
-    padding: 2em;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
+    padding-left: 2em;
 }
 .ol--visual {
     font-size: 15px;
