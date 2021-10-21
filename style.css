@@ -26,7 +26,7 @@ html {
 .main--typography h6 {
     font-size: 12px;
     font-style: italic;
-    padding-left: 6em;
+    padding-left: 5em;
 }
 .section--paragraph {
     padding-left: 5em;
@@ -45,16 +45,6 @@ ul {
 .section--images {
     padding-left: 1.5em;
 }
-.div--image figcaption {
-    opacity: 50%;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-.div--image > img:hover {
-    filter: blur(5px);
-}
 .blockquote--quote {
     padding: 2em;
     font-style: italic;
@@ -63,7 +53,7 @@ ul {
     display: flex;
     align-content: space-between;
     text-align: center;
-    padding: 2em;
+    padding-left: 5em; 
 }
 .button--version1 {
     font-size: 20px;
@@ -110,3 +100,16 @@ ul {
     border-style: dashed;
     border-color: #921637;
 } 
+.table--table {
+    padding: 3em;
+}
+th {
+    border: #115373 solid;
+    background-color: lightblue;
+}
+td {
+    border: #115373 solid;
+    text-align: center;
+    background-color: lightskyblue;
+}
+
